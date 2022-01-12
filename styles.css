@@ -1,0 +1,111 @@
+.websiteguide {
+  font-family: Arial;
+  color: purple;
+  text-decoration: underline;
+}
+
+div {
+  border: 2px solid black;
+  font-family: Georgia;
+  text-align: center;
+  padding: 10px;
+  margin: 20px;
+}
+
+.blue {
+  font-family: Arial;
+  background-color: #2C7CB0;
+  color: #FFFFFF;
+  margin: 20px auto;
+  text-align: center;
+  min-height: 100px;
+  display: inline-block;
+  width: 40%;
+}
+
+.pink {
+  font-family: Arial;
+  background-color: #EC7EA8;
+  color: #FFFFFF;
+  margin: 20px auto;
+  text-align: center;
+  min-height: 100px;
+  display: inline-block;
+  width: 40%;
+}
+
+.purple {
+  font-family: Arial;
+  background-color: #895397;
+  color: #FFFFFF;
+  margin: 20px auto;
+  text-align: center;
+  min-height: 100px;
+  display: inline-block;
+  width: 40%;
+}
+
+
+
+h3 {
+  text-align: left;
+  text-decoration: underline;
+}
+
+.raleway {
+  font-family: raleway;
+}
+
+.ralewaybold {
+  font-family: raleway;
+  font-weight: bold;
+}
+
+.ralewayitalic {
+  font-family: raleway;
+  font-style: italic;
+}
+
+.dosis {
+  font-family: dosis;
+}
+
+.dosisbold {
+  font-family: dosis;
+  font-weight: bold;
+}
+
+.dosisitalic {
+  font-family: dosis;
+  font-style: italic;
+}
+
+.lora {
+  font-family: lora;
+}
+
+.lorabold {
+  font-family: lora;
+  font-weight: bold;
+}
+
+.loraitalic {
+  font-family: lora;
+  font-style: italic;
+}
+
+li {
+  text-align: left;
+}
+
+.h1 {
+  text-align: left;
+}
+
+.h2 {
+  text-align: left;
+}
+
+.p {
+  text-align: left;
+}
